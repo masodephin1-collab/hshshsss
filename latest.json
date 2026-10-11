@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/masodephin1-collab/tool/releases/download/1.0.1/1.0.1.zip",
   "mac": {
     "url": "https://link-tai-file-dmg-cho-macos.dmg"
   },
-  "notes": "Sửa lỗi dọn giỏ, thêm công tắc bán cá đỏ",
-  "size": 50000000
+  "notes": "FIX BÁN CÁ VÀ CÂU",
+  "size": 82001920
 }
