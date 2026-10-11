@@ -1,5 +1,9 @@
 {
   "version": "1.0.1",
-  "url": "https://link-tai-file-zip-cua-ban",
-  "notes": "Sửa lỗi dọn giỏ, thêm công tắc bán cá đỏ"
+  "url": "https://link-tai-file-zip-cho-windows.zip",
+  "mac": {
+    "url": "https://link-tai-file-dmg-cho-macos.dmg"
+  },
+  "notes": "Sửa lỗi dọn giỏ, thêm công tắc bán cá đỏ",
+  "size": 50000000
 }
