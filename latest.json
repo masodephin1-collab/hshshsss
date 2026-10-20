@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9",
-  "url": "https://github.com/masodephin1-collab/tool/releases/download/1.0.9/1.0.9.zip",
+  "version": "2.0.0",
+  "url": "https://github.com/masodephin1-collab/tool/releases/download/2.0.0/2.0.0.zip",
   "mac": {
     "url": "https://github.com/masodephin1-collab/hshshsss/releases/download/1.0.1/1.0.1.zip"
   },
-  "notes": "up tiên âm vui lòng test trước khi chơi có lỗi báo ngay",
+  "notes": "script tai khoang login",
   "size": 82001920
 }
